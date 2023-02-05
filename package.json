@@ -1,0 +1,14 @@
+{
+  "name": "javaday01",
+  "version": "1.0.0",
+  "description": "belajar javascript hari pertama",
+  "main": "node start.js",
+  "scripts": {
+    "test": "node password.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
